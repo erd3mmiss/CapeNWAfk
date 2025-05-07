@@ -1,4 +1,4 @@
-send /login 20120106edO
+send /login şifre
 wait 3 seconds
 send /survival
 wait 3 seconds
