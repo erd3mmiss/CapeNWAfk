@@ -1,0 +1,7 @@
+send /login 20120106edO
+wait 3 seconds
+send /survival
+wait 3 seconds
+send /home
+wait 5 seconds
+
