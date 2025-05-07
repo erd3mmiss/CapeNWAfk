@@ -1,4 +1,4 @@
 @echo off
 :baslat
-MinecraftClient.exe MyfelcAFK -
+MinecraftClient.exe isim -
 GOTO baslat
